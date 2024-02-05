@@ -4,6 +4,7 @@
 - [Contexto](#contexto)
 - [Dados](#dados)
 - [Como Usar](#como-usar)
+- [Conclusões](#conclusoes)
 
 ## Contexto:
 Este conjunto de dados contém informações sobre os funcionários de uma empresa na Índia, incluindo formação educacional, histórico profissional, dados demográficos e fatores relacionados trabalho dentro da empresa. Ele foi anonimizado para proteger a privacidade e, ao mesmo tempo, fornecer informações valiosas sobre a força de trabalho e um possível desgaste dos funcionários em relação ao ambiente de trabalho.
@@ -26,7 +27,7 @@ Este conjunto de dados contém informações sobre os funcionários de uma empre
 
 ## Como Usar
 
-Forneça instruções claras sobre como instalar, configurar e usar o seu projeto. Inclua exemplos de código, se necessário.
+* asdas
 
 Exemplo de código:
 
@@ -35,3 +36,6 @@ $ git clone https://github.com/username/nome-do-projeto.git
 $ cd nome-do-projeto
 $ npm install
 $ npm start
+
+##Conclusões
+
