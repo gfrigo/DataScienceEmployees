@@ -5,14 +5,25 @@ Este conjunto de dados contém informações sobre os funcionários de uma empre
 
 ## Índice
 
-- [Sobre](#sobre)
+- [Dados](#dados)
 - [Como Usar](#como-usar)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 
-## Sobre
+## Dados
 
-Descreva aqui o propósito do seu projeto e o que ele faz. Forneça contexto sobre a motivação por trás do projeto e destacar as principais características.
+| Nome da Variável            | Descrição                                                       |
+|-----------------------------|-----------------------------------------------------------------|
+| Education                   | As qualificações educacionais dos funcionários, incluindo grau, instituição e área de estudo. |
+| Joining Year                | Ano em que cada funcionário ingressou na empresa, indicando o tempo de serviço. |
+| City                        | O local ou cidade onde cada funcionário está baseado ou trabalha. |
+| Payment Tier                | Categorização dos funcionários em diferentes níveis salariais. |
+| Age                         | A idade de cada funcionário, fornecendo insights demográficos. |
+| Gender                      | Identidade de género dos colaboradores, promovendo a análise da diversidade. |
+| Ever Benched                | Indica se um funcionário já esteve temporariamente sem trabalho atribuído. |
+| Experience in Current Domain| O número de anos de experiência que os funcionários têm em sua área atual. |
+| Leave or Not                | Coluna alvo: o funcionário sai ou não da empresa. |
+
 
 ## Como Usar
 
