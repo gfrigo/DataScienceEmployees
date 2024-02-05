@@ -4,7 +4,7 @@
 - [Contexto](#contexto)
 - [Dados](#dados)
 - [Como Usar](#como-usar)
-- [Conclusões](#conclusoes)
+- [Conclusões](#conclusões)
 
 ## Contexto:
 Este conjunto de dados contém informações sobre os funcionários de uma empresa na Índia, incluindo formação educacional, histórico profissional, dados demográficos e fatores relacionados trabalho dentro da empresa. Ele foi anonimizado para proteger a privacidade e, ao mesmo tempo, fornecer informações valiosas sobre a força de trabalho e um possível desgaste dos funcionários em relação ao ambiente de trabalho.
