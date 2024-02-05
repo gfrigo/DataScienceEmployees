@@ -36,6 +36,7 @@ $ git clone https://github.com/username/nome-do-projeto.git
 $ cd nome-do-projeto
 $ npm install
 $ npm start
+```
 
 ##Conclusões
 
