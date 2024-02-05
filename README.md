@@ -33,7 +33,7 @@ Este conjunto de dados contém informações sobre os funcionários de uma empre
 * Baixe os arquivos deste repositórios nomeados como: CODIGO_INDIA_CIENCIA_DADOS.ipynb, conjunto_de_dados_de_funcionarios.csv, admission_dataset.csv ;
 * Coloque-os juntos na mesma pasta e abra o notebook que contém o código.
 
-## Depencências
+## Dependências
 Execute em células separadas os seguintes comandos:
 
 ```bash
@@ -55,6 +55,6 @@ pip install plotly
 ## Conclusões
 Acesse os links abaixo e confira as conclusões obtidas:
 
-Machine Learning: https://www.canva.com/design/DAF05y4x2DE/33mN0cQOjQE9lDz-nJG9bA/edit?utm_content=DAF05y4x2DE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-Visualização de dados: https://sway.office.com/h8R6yu7pg6OLRTvE?ref=Link
-Visualização de dados: https://sway.office.com/Pt82OMEPCizwLHb9?ref=Link&loc=mysways
+* Machine Learning: https://www.canva.com/design/DAF05y4x2DE/33mN0cQOjQE9lDz-nJG9bA/edit?utm_content=DAF05y4x2DE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton ;
+* Visualização de dados: https://sway.office.com/h8R6yu7pg6OLRTvE?ref=Link ;
+* Visualização de dados: https://sway.office.com/Pt82OMEPCizwLHb9?ref=Link&loc=mysways .
